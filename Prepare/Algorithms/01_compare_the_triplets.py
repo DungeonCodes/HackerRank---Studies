@@ -41,3 +41,4 @@ if __name__ == '__main__':
     # Salva o resultado no arquivo output.txt
     with open('output.txt', 'w') as fptr:
         fptr.write(' '.join(map(str, result)) + '\n')  # Escreve a saída no arquivo
+#olá
