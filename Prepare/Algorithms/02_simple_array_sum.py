@@ -18,7 +18,7 @@ def simpleArraySum(ar):
     return sum(ar)
 
 if __name__ == '__main__':
-    # Lê o tamanho do array (não é utilizado no cálculo da soma)
+    # Lê o tamanho do array (não é utilizado nos cálculos das somas)
     ar_count = int(input().strip())
 
     # Lê os elementos do array e os converte para uma lista de inteiros
